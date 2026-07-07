@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/IshaanSahi/questions/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/IshaanSahi/questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/IshaanSahi/questions/tree/master/0496-next-greater-element-i) |
 ## Array
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshaanSahi/questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/IshaanSahi/questions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
