@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/IshaanSahi/questions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/IshaanSahi/questions/tree/master/0225-implement-stack-using-queues) |
 | [0445-add-two-numbers-ii](https://github.com/IshaanSahi/questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/IshaanSahi/questions/tree/master/0496-next-greater-element-i) |
 ## Array
@@ -45,9 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/IshaanSahi/questions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/IshaanSahi/questions/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/IshaanSahi/questions/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/IshaanSahi/questions/tree/master/0705-design-hashset) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/IshaanSahi/questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
