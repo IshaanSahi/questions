@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/IshaanSahi/questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/IshaanSahi/questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/IshaanSahi/questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/IshaanSahi/questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/IshaanSahi/questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/IshaanSahi/questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/IshaanSahi/questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/IshaanSahi/questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/IshaanSahi/questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/IshaanSahi/questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/IshaanSahi/questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/IshaanSahi/questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/IshaanSahi/questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/IshaanSahi/questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/IshaanSahi/questions/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
