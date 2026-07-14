@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/IshaanSahi/questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/IshaanSahi/questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/IshaanSahi/questions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/IshaanSahi/questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/IshaanSahi/questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/IshaanSahi/questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/IshaanSahi/questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/IshaanSahi/questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshaanSahi/questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/IshaanSahi/questions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/IshaanSahi/questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/IshaanSahi/questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/IshaanSahi/questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/IshaanSahi/questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/IshaanSahi/questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshaanSahi/questions/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/IshaanSahi/questions/tree/master/0705-design-hashset) |
+| [0901-online-stock-span](https://github.com/IshaanSahi/questions/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/IshaanSahi/questions/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/IshaanSahi/questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
