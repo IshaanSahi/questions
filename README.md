@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/IshaanSahi/questions/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/IshaanSahi/questions/tree/master/0846-hand-of-straights) |
 | [0907-sum-of-subarray-minimums](https://github.com/IshaanSahi/questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/IshaanSahi/questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/IshaanSahi/questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/IshaanSahi/questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/IshaanSahi/questions/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/IshaanSahi/questions/tree/master/0705-design-hashset) |
 | [0846-hand-of-straights](https://github.com/IshaanSahi/questions/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/IshaanSahi/questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -127,8 +129,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/IshaanSahi/questions/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/IshaanSahi/questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/IshaanSahi/questions/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/IshaanSahi/questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 <!---LeetCode Topics End-->
