@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/IshaanSahi/questions/tree/master/0146-lru-cache) |
 | [0445-add-two-numbers-ii](https://github.com/IshaanSahi/questions/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/IshaanSahi/questions/tree/master/0705-design-hashset) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshaanSahi/questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/IshaanSahi/questions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/IshaanSahi/questions/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/IshaanSahi/questions/tree/master/0705-design-hashset) |
 | [0846-hand-of-straights](https://github.com/IshaanSahi/questions/tree/master/0846-hand-of-straights) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/IshaanSahi/questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/IshaanSahi/questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/IshaanSahi/questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshaanSahi/questions/tree/master/0232-implement-queue-using-stacks) |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0846-hand-of-straights](https://github.com/IshaanSahi/questions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/IshaanSahi/questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/IshaanSahi/questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
