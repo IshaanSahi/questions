@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshaanSahi/questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/IshaanSahi/questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/IshaanSahi/questions/tree/master/0735-asteroid-collision) |
+| [3498-reverse-degree-of-a-string](https://github.com/IshaanSahi/questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
