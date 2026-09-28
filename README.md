@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshaanSahi/questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/IshaanSahi/questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [3498-reverse-degree-of-a-string](https://github.com/IshaanSahi/questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/IshaanSahi/questions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/IshaanSahi/questions/tree/master/0355-design-twitter) |
+| [0449-serialize-and-deserialize-bst](https://github.com/IshaanSahi/questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshaanSahi/questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/IshaanSahi/questions/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/IshaanSahi/questions/tree/master/0901-online-stock-span) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/IshaanSahi/questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshaanSahi/questions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/IshaanSahi/questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshaanSahi/questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/IshaanSahi/questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshaanSahi/questions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/IshaanSahi/questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/IshaanSahi/questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -286,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/IshaanSahi/questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/IshaanSahi/questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Bit Manipulation
