@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/IshaanSahi/questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/IshaanSahi/questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshaanSahi/questions/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/IshaanSahi/questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/IshaanSahi/questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/IshaanSahi/questions/tree/master/0901-online-stock-span) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/IshaanSahi/questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/IshaanSahi/questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshaanSahi/questions/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0654-maximum-binary-tree) |
 | [0705-design-hashset](https://github.com/IshaanSahi/questions/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/IshaanSahi/questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/IshaanSahi/questions/tree/master/0739-daily-temperatures) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/IshaanSahi/questions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/IshaanSahi/questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshaanSahi/questions/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/IshaanSahi/questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/IshaanSahi/questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/IshaanSahi/questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/IshaanSahi/questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/IshaanSahi/questions/tree/master/0652-find-duplicate-subtrees) |
+| [0654-maximum-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshaanSahi/questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/IshaanSahi/questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/IshaanSahi/questions/tree/master/0652-find-duplicate-subtrees) |
+| [0654-maximum-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshaanSahi/questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/IshaanSahi/questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/IshaanSahi/questions/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0654-maximum-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -315,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/IshaanSahi/questions/tree/master/0508-most-frequent-subtree-sum) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
