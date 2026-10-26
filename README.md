@@ -356,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0654-maximum-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/IshaanSahi/questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
