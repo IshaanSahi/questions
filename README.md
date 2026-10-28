@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/IshaanSahi/questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/IshaanSahi/questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshaanSahi/questions/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/IshaanSahi/questions/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0654-maximum-binary-tree) |
 | [0705-design-hashset](https://github.com/IshaanSahi/questions/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/IshaanSahi/questions/tree/master/0735-asteroid-collision) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/IshaanSahi/questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/IshaanSahi/questions/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/IshaanSahi/questions/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/IshaanSahi/questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IshaanSahi/questions/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/IshaanSahi/questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/IshaanSahi/questions/tree/master/0542-01-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/IshaanSahi/questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshaanSahi/questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/IshaanSahi/questions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/IshaanSahi/questions/tree/master/0542-01-matrix) |
 | [0655-print-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/IshaanSahi/questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
