@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/IshaanSahi/questions/tree/master/0445-add-two-numbers-ii) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/IshaanSahi/questions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/IshaanSahi/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/IshaanSahi/questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/IshaanSahi/questions/tree/master/2104-sum-of-subarray-ranges) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/IshaanSahi/questions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
